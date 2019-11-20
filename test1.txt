@@ -1,1 +1,2 @@
-s This is my 1st file in VIM editor.
+s This is my 1st file in VIM editor
+Editing file 2nd time.
